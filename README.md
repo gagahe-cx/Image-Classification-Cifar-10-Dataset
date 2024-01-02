@@ -9,5 +9,5 @@ It is comprised of three parts:
 
 Brilliant points:
   1) The CNN models did not employ the existing architectures like ResNet, 
-Inception, DenseNet, etc.
+Inception, DenseNet, etc. Instead, it is designed recursively following the idea of ResNet. Explore it!
   2) The CNN models indicates a prediction accuracy of 95.5% at most for one type.
