@@ -1,4 +1,4 @@
-# Image-Classification-Cifar-10-Dataset
+# Image-Classification-Cifar-10
 This project mainly employes '''Python''' to perform image classification on 
 the classic Cifar-10 dataset. 
 
